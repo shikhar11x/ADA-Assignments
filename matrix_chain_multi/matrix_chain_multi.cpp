@@ -33,7 +33,7 @@ void analysis(){
 
 }
 
-int main() {
+int main(){
    analysis();
     return 0;
 }
