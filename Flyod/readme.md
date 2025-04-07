@@ -118,9 +118,10 @@ Worst Case: Updates: 0
 
 ---
 
-## 📊 Floyd-Warshall Algorithm Analysis (Steps vs Updates)
+## Floyd-Warshall Algorithm Analysis (Steps vs Updates)
 
 | Input Size | Case         | Updates |
+|------------|--------------|---------|
 | 5          | Best Case    | 0       |
 | 5          | Average Case | 11      |
 | 5          | Worst Case   | 0       |
